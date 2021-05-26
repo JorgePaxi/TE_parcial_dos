@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/web/Usuario.jsp</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/controlador/PermisoControlador.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/dao/PermisoDAOimpl.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/dao/RolDAO.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/web/frmrol.jsp</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/modelo/Permiso.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/web/Permiso.jsp</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/dao/PermisoDAO.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/web/Rol.jsp</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/utiles/ConexionDB.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/web/frmpermiso.jsp</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/web/menu.jsp</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/controlador/UsuarioControlador.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/dao/RolDAOimpl.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/web/frmusuario.jsp</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/dao/UsuarioDAOimpl.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/modelo/Usuario.java</file>
+            <file>file:/C:/Users/JLuis/Documents/NetBeansProjects/TE_parcial_dos/src/java/com/emergentes/controlador/RolControlador.java</file>
+        </group>
+    </open-files>
+</project-private>
