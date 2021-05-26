@@ -30,5 +30,3 @@ CREATE TABLE `permisos` (
 
 
 insert into usuarios (usuario,correo,clave) values ('demo','demo@gmail.com','827ccb0eea8a706c4c34a16891f84e7b');
-
-insert into usuarios (usuario,correo,clave) values ('admin','admin@gmail.com','827ccb0eea8a706c4c34a16891f84e7b');
